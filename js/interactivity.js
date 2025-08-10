@@ -30,10 +30,10 @@ document.addEventListener("DOMContentLoaded", function () {
 
 // List of background images
 const images = [
-    "/images/Background Image.png",
-    "/images/bkgd1.jpg",
-    "/images/bkgd2.jpg",
-    "/images/bkgd4.jpg"
+    "images/Background Image.png",
+    "images/bkgd1.jpg",
+    "images/bkgd2.jpg",
+    "images/bkgd4.jpg"
 ];
 
 let currentIndex = 0;
